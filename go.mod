@@ -1,4 +1,4 @@
-module github.com/mbcarruthers/cloudnative
+module github.com/mbcarruthers/databaseBreaker
 
 go 1.19
 
